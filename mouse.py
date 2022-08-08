@@ -7,7 +7,7 @@ def default():
 
 @app.route('/my_name')
 def my_name():
-    return "Alok Kumar DAs"
+    return "ALOK KUMAR DAS"
 
 
 if __name__=="__main__":
